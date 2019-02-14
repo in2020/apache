@@ -1,4 +1,7 @@
 # apache
+## 기본 설정 방법 
+- 참조(https://www.lesstif.com/display/1STB/Apache+httpd)
+
 ## Tips
 ### 크로스도메인 허용
 - 참조 (http://adrenal.tistory.com/16)
